@@ -168,3 +168,36 @@ document.addEventListener('keydown', function(e) {
 requestAnimationFrame(loop);
 </script>
 </body>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Quiz Page</title>
+    <!-- Add any additional head elements if needed -->
+</head>
+<body>
+
+    <!-- Heading to display quiz status -->
+    <h2 id="quiz_status">Question 1 of 4</h2>
+
+    <!-- Div to contain the quiz questions and options -->
+    <div id="quiz">
+        <!-- Add your quiz questions and options here -->
+        <p>Question 1: What is your favorite color?</p>
+        <label for="option1">Red</label>
+        <input type="radio" name="question1" id="option1" value="option1">
+        <label for="option2">Blue</label>
+        <input type="radio" name="question1" id="option2" value="option2">
+        <!-- Repeat similar structure for other questions -->
+
+        <!-- Button to submit responses to each question -->
+        <button id="submit_button" onclick="submitResponse()">Submit</button>
+    </div>
+
+    <!-- Add any additional body content if needed -->
+
+    <!-- JavaScript or other scripts if required -->
+
+</body>
+</html>
