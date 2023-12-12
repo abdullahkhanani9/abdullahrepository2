@@ -4,7 +4,7 @@ var pos = 0, quiz, quiz_status, question, selectedAnswer, options, optionA, opti
 // this is a multi-dimensional array with objects containing each question
 var questions = [
   {
-      question: "What is 36 + 42",
+      question: "What is",
       a: "64",
       b: "78",
       c: "76",
