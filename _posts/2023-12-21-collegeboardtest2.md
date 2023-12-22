@@ -10,7 +10,7 @@ type: hacks
 
 ## College Board Practice Exam 2 Reflection: Journey, Corrections, and Learnings
 
-### Journey and Learnings
+### My Journey and Learnings
 
 Exploring the Internet's Evolution
 
