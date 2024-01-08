@@ -18,7 +18,7 @@ In preparation for my study week, I delved into archived team teachings, distill
 
 Navigating Routing and Computing Realms
 
-Transitioning swiftly to discussions on routing and computing, I engaged in dynamic exchanges with peers, leveraging collective knowledge to grasp core concepts. Visualizing data packet transmission through fast-paced online video tutorials proved effective. Quick Q&A sessions with the team focused on key algorithms and computational thinking, ensuring rapid understanding.
+Transitioning swiftly to discussions on routing and computing, I engaged in dynamic exchanges with peers, leveraging collective knowledge to grasp core concepts. Visualizing data packet transmission through fast-paced online video tutorials proved effective. Quick Q&A sessions with the team focused on key algorithms and computational thinking, ensuring rapid understanding. 
 
 Unveiling the Dual Nature of the Internet
 
