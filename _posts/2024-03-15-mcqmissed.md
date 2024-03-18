@@ -1,10 +1,11 @@
 ---
-comments: true
+toc: True
+comments: True
 layout: post
-title: MCQ 2020 Frequently Missed Questions
-description: Questions and sample Python code to represent the most frequently missed questions on the 2020 AP Computer Science A Multiple Choice Exam. 
+title: MCQ Missed
+description: MCQ Missed
+courses: {'compsci': {'week': 26}}
 type: hacks
-courses: { csp: {week: 26} }
 ---
 ## 4. Cause of overflow Error (1D, binary math) - Tara Sehdave
 
