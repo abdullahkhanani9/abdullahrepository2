@@ -4,7 +4,7 @@ comments: True
 layout: post
 title: MCQ Missed
 description: MCQ Missed
-courses: {'compsci': {'week': 26}}
+courses: {'compsci': {'week': 25}}
 type: hacks
 ---
 ## 4. Cause of overflow Error (1D, binary math) - Tara Sehdave
