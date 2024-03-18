@@ -3,7 +3,7 @@ toc: True
 comments: True
 layout: post
 title: MCQ Missed
-description: MCQ Missed
+description: MCQ Missed Questions
 courses: {'compsci': {'week': 25}}
 type: hacks
 ---
